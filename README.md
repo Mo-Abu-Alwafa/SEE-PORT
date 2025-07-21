@@ -1,6 +1,6 @@
 <!-- Header Logo -->
 <p align="center">
-  <img src="Logo Wide Taged.png" alt="SEEPORT Logo" width="600"/>
+  <img src="Logo Wide Taged.png" alt="SEE PORT Logo" width="600"/>
 </p>
 
 # SEEPORT - Marine Port Management Solution
@@ -9,7 +9,7 @@
 
 ## 🚢 Project Overview
 
-**SEEPORT** is a comprehensive smart solution that helps marine ports run smoother and faster by bringing all cargo, ship, and yard operations into one unified system. With SEEPORT, port managers, operators, officers, and supervisors can track shipments and cargo, manage resources, and handle billing automatically—all in real-time—making daily work easier, reducing mistakes, and helping the port serve ships and clients better than ever before.
+**SEE PORT** is a comprehensive smart solution that helps marine ports run smoother and faster by bringing all cargo, ship, and yard operations into one unified system. With SEE PORT, port managers, operators, officers, and supervisors can track shipments and cargo, manage resources, and handle billing automatically—all in real-time—making daily work easier, reducing mistakes, and helping the port serve ships and clients better than ever before.
 
 ### 🎯 Problem Statement
 Marine ports traditionally suffer from **scattered data** across multiple systems on operation role level or on different ports level too with no unified database, leading to:
