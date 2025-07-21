@@ -95,7 +95,7 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- DWH Schema Image -->
 <p align="center">
-  <img src="2 . DWH\POWERPNT_pBWZ9KCtk5.png" alt="SEEPORT Schema" width="600"/>
+  <img src="2 . DWH/DWH Schema.png" alt="SEEPORT Schema" width="600"/>
 </p>
 
 ### 📊 Phase 3: Reporting & Analytics
@@ -162,8 +162,6 @@ This project follows a comprehensive development lifecycle covering database des
 
 ## 👥 Team Members
 
-## 👥 Team Members
-
 - [Mohamed Abu Al-Wafa](https://github.com/abu-alwafa)
 - [Hassan Sakkoury](https://github.com/hassansakkoury)
 - [Zeinab Sharaf](https://github.com/zeinabsharaf)
@@ -180,7 +178,8 @@ Licensed under the [Apache License 2.0](LICENSE).
 
 ## 📞 Contact & Support
 
-- **Project Repository**: [GitHub Repository URL]
+- **Project Repository**: [https://github.com/Mo-Abu-Alwafa/SEE-PORT.git]
+- [project repository](https://github.com/Mo-Abu-Alwafa/SEE-PORT.git)
 - **Issues**: [GitHub Issues URL]
 
 ---
