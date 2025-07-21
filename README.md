@@ -1,6 +1,6 @@
 <!-- Header Logo -->
 <p align="center">
-  <img src="Git\Logo Wide Taged.png" alt="SEEPORT Logo" width="600"/>
+  <img src="Git\Logo%20Wide%20Taged.png" alt="SEEPORT Logo" width="600"/>
 </p>
 
 # SEEPORT - Smart Marine Port Management System
