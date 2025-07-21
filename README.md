@@ -65,7 +65,7 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- ERD Image -->
 <p align="center">
-  <img src="1. DB/ERD/ERD SEE PORT Taged.png" alt="SEEPORT ERD" width="600"/>
+  <img src="1 . DB/ERD SEE PORT Taged.png" alt="SEEPORT ERD" width="600"/>
 </p>
 
 #### Database Schema Implementation
