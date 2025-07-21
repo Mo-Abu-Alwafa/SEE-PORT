@@ -112,7 +112,7 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- SSRS Sample Image -->
 <p align="center">
-  <img src="3 . SSRS\1.Ships by Terminal Procedure.png" alt="SSRS Report Sample" width="600"/>
+  <img src="3 . SSRS/1.Ships by Terminal.png" alt="SSRS Report Sample" width="600"/>
 </p>
 
 #### Power BI Dashboards
@@ -153,7 +153,7 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- Web App Sample Image -->
 <p align="center">
-  <img src="5. Web App\brave_usDh622woQ.jpg" alt="Web App Sample" width="600"/>
+  <img src="5. Web App/LOGIN page.jpg" alt="Web App Sample" width="600"/>
 </p>
 
 ## **Try Beta Version**: [https://see-port-beta.vercel.app/]
