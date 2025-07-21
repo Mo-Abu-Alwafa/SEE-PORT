@@ -79,7 +79,7 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- Schema Image -->
 <p align="center">
-  <img src="Git\1 . DB\Schema SEE PORT Taged.png" alt="SEEPORT Schema" width="600"/>
+  <img src="1 . DB/Schema SEE PORT Taged.png" alt="SEEPORT Schema" width="600"/>
 </p>
 
 
@@ -95,7 +95,7 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- DWH Schema Image -->
 <p align="center">
-  <img src="Git\2 . DWH\POWERPNT_pBWZ9KCtk5.png" alt="SEEPORT Schema" width="600"/>
+  <img src="2 . DWH\POWERPNT_pBWZ9KCtk5.png" alt="SEEPORT Schema" width="600"/>
 </p>
 
 ### 📊 Phase 3: Reporting & Analytics
@@ -112,7 +112,7 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- SSRS Sample Image -->
 <p align="center">
-  <img src="Git\3 . SSRS\1.Ships by Terminal Procedure.png" alt="SSRS Report Sample" width="600"/>
+  <img src="3 . SSRS\1.Ships by Terminal Procedure.png" alt="SSRS Report Sample" width="600"/>
 </p>
 
 #### Power BI Dashboards
@@ -127,7 +127,7 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- Power BI Sample Image -->
 <p align="center">
-  <img src="Git\4 . Dashboards sample\Operational .png" alt="Power BI Dashboard Sample" width="600"/>
+  <img src="4 . Dashboards sample\Operational .png" alt="Power BI Dashboard Sample" width="600"/>
 </p>
 
 ### 🌐 Phase 4: Web Application Development
@@ -153,10 +153,10 @@ This project follows a comprehensive development lifecycle covering database des
 
 <!-- Web App Sample Image -->
 <p align="center">
-  <img src="Git\5. Web App\brave_usDh622woQ.jpg" alt="Web App Sample" width="600"/>
+  <img src="5. Web App\brave_usDh622woQ.jpg" alt="Web App Sample" width="600"/>
 </p>
 
-- **Try Beta Version**: [https://see-port-beta.vercel.app/]
+## **Try Beta Version**: [https://see-port-beta.vercel.app/]
 
 ---
 
