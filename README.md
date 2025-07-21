@@ -75,7 +75,7 @@ This project follows a comprehensive development lifecycle covering database des
   - Triggers for data integrity
   - Audting Tables for operators operation history
   
-- **Schema Files**: Located in [1. DB/](1. DB/) directory
+- **Schema Files**: Located in [1. DB/](/1. DB/) directory
 
 <!-- Schema Image -->
 <p align="center">
