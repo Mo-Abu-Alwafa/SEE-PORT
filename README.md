@@ -3,7 +3,7 @@
   <img src="Logo Wide Taged.png" alt="SEEPORT Logo" width="600"/>
 </p>
 
-# SEEPORT - Smart Marine Port Management System
+# SEEPORT - Marine Port Management Solution
 
 ---
 
