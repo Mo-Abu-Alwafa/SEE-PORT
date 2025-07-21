@@ -75,7 +75,7 @@ This project follows a comprehensive development lifecycle covering database des
   - Triggers for data integrity
   - Audting Tables for operators operation history
   
-- **Schema Files**: Located in [1. DB/](1 . DB) directory
+- **Schema Files**: Located in  `1. DB/` directory
 
 <!-- Schema Image -->
 <p align="center">
@@ -91,7 +91,7 @@ This project follows a comprehensive development lifecycle covering database des
   - Data validation
   - Transformation according to business rules
   - Loading into target database tables
-- **SSIS Files**: Located in `Git/2. DWH/` directory
+- **SSIS Files**: Located in `2. DWH/` directory
 
 <!-- DWH Schema Image -->
 <p align="center">
@@ -108,7 +108,7 @@ This project follows a comprehensive development lifecycle covering database des
   - Operational efficiency metrics
   - Financial performance summaries
   - Resource utilization reports
-- **SSRS Files**: Located in `Git/3. SSRS/` directory
+- **SSRS Files**: Located in `3. SSRS/` directory
 
 <!-- SSRS Sample Image -->
 <p align="center">
@@ -123,7 +123,7 @@ This project follows a comprehensive development lifecycle covering database des
   - Performance KPIs and trends
   - Resource allocation optimization
   - Revenue and cost analysis
-- **Power BI Files**: Located in `Git/4. Dashboards sample/` directory
+- **Power BI Files**: Located in `4. Dashboards sample/` directory
 
 <!-- Power BI Sample Image -->
 <p align="center">
