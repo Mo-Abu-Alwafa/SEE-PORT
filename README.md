@@ -156,7 +156,7 @@ This project follows a comprehensive development lifecycle covering database des
   <img src="5. Web App/LOGIN page.jpg" alt="Web App Sample" width="600"/>
 </p>
 
-#### [▶️▶️**Try Beta Version**](https://see-port-beta.vercel.app/)
+#### [▶️▶️**Try Beta Version**◀️◀️](https://see-port-beta.vercel.app/)
 
 ---
 
