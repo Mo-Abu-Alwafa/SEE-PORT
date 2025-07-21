@@ -156,7 +156,7 @@ This project follows a comprehensive development lifecycle covering database des
   <img src="5. Web App/LOGIN page.jpg" alt="Web App Sample" width="600"/>
 </p>
 
-## **Try Beta Version**: [https://see-port-beta.vercel.app/]
+## [▶️▶️**Try Beta Version**]([url](https://see-port-beta.vercel.app/))
 
 ---
 
@@ -178,9 +178,8 @@ Licensed under the [Apache License 2.0](LICENSE).
 
 ## 📞 Contact & Support
 
-- **Project Repository**: [https://github.com/Mo-Abu-Alwafa/SEE-PORT.git]
-- [project repository](https://github.com/Mo-Abu-Alwafa/SEE-PORT.git)
-- **Issues**: [GitHub Issues URL]
+- [**project repository**](https://github.com/Mo-Abu-Alwafa/SEE-PORT.git)
+- [**Issues**](https://github.com/Mo-Abu-Alwafa/SEE-PORT/issues)
 
 ---
 
