@@ -165,7 +165,7 @@ This project follows a comprehensive development lifecycle covering database des
 - [Mohamed Abu Al-Wafa](https://github.com/abu-alwafa)
 - [Hassan Sakkoury](https://github.com/hassansakkoury)
 - [Zeinab Sharaf](https://github.com/zeinabsharaf)
-- [Ahmed Rabie](https://github.com/ahmedrabie)
+- [Ahmed Rabie](https://github.com/theNubian007)
 - [Mohamed Ezzat](https://github.com/mohamedezzat)
 
 ---
