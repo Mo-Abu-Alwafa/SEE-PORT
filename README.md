@@ -160,9 +160,9 @@ This project follows a comprehensive development lifecycle covering database des
 
 ---
 
-## 👥 Team Members
+## 👥 **SEE PORT** Team Members
 
-- [Mohamed Abu Al-Wafa](https://github.com/abu-alwafa)
+- [Mohamed Abu Al-Wafa](https://github.com/Mo-Abu-Alwafa)
 - [Hassan Sakkoury](https://github.com/hassansakkoury)
 - [Zeinab Sharaf](https://github.com/zeina0110)
 - [Ahmed Rabie](https://github.com/theNubian007)
